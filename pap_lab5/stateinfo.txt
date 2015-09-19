@@ -1,0 +1,11 @@
+karnataka:bangalore
+kerala:trivandrum
+kerala:munnar
+tamilnadu:chennai
+karnataka:mysore
+kerala:tekkadi
+tamilnadu:madurai
+karnataka:hubli
+kerala:kochi
+tamilnadu:salem
+karnataka:mangalore
